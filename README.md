@@ -5,3 +5,5 @@ USUARIO: admin
 password: admin123
 PANEL DE CONTROL
 VENTANAS A ELEGIR
+VIDEO TUTORIAL DEL SISTEMA
+https://youtu.be/5Xrz_AfErJ4
